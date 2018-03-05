@@ -1,0 +1,6 @@
+framework module Pods_WebServiceIntegration {
+  umbrella header "Pods-WebServiceIntegration-umbrella.h"
+
+  export *
+  module * { export * }
+}
